@@ -1,0 +1,25 @@
+.red {
+	color: red;
+}
+
+.cloudygray {
+	color:  grey;
+}
+
+.headlineblack {
+	color: black ;
+	font-size: 100% ;
+	font-style: verdana ; 
+	font-style: italic;
+	text-align: center;
+}
+
+.linkcolors {
+	background-color: black;
+	color: white
+
+}
+
+body {
+    background-image: url("paper.gif");
+}
